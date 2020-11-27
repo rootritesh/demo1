@@ -1,2 +1,2 @@
 FROM centos
-yum install vim -y
+RUN yum install vim -y
